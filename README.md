@@ -119,3 +119,5 @@ This digital catalog web platform provides an interactive, seamless, and mobile-
 ## 📄 License
 
 Copyright © 2026 Kamal Moulds®. All rights reserved.
+
+<!-- Production Build Trigger: Vercel Auto-Deploy -->
